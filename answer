@@ -1,0 +1,18 @@
+java -cp /tmp/cQucaGggbs doubly_linked_list
+Enter the names of your family members along with their age (FORMAT: FirstName_Age): 
+RADHEMOHAN_50
+Do you want to add more names. If yes press 1, else press any other number: 
+1
+Enter the names of your family members along with their age (FORMAT: FirstName_Age): 
+SARITA_45
+Do you want to add more names. If yes press 1, else press any other number: 
+1
+Enter the names of your family members along with their age (FORMAT: FirstName_Age): 
+MANOJ_25
+Do you want to add more names. If yes press 1, else press any other number: 
+1
+Enter the names of your family members along with their age (FORMAT: FirstName_Age): 
+NIKITA_21
+Do you want to add more names. If yes press 1, else press any other number: 
+3
+NIKITA_21 MANOJ_25 SARITA_45 RADHEMOHAN_50 
